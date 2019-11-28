@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/subash-poudel.github.io/static/css/main.b100e6da.chunk.css",
+    "main.js": "/subash-poudel.github.io/static/js/main.405da237.chunk.js",
+    "main.js.map": "/subash-poudel.github.io/static/js/main.405da237.chunk.js.map",
+    "runtime-main.js": "/subash-poudel.github.io/static/js/runtime-main.31aca757.js",
+    "runtime-main.js.map": "/subash-poudel.github.io/static/js/runtime-main.31aca757.js.map",
+    "static/js/2.2bceaec4.chunk.js": "/subash-poudel.github.io/static/js/2.2bceaec4.chunk.js",
+    "static/js/2.2bceaec4.chunk.js.map": "/subash-poudel.github.io/static/js/2.2bceaec4.chunk.js.map",
+    "index.html": "/subash-poudel.github.io/index.html",
+    "precache-manifest.da6861f63435ebd5259e8d2d7ad2fef3.js": "/subash-poudel.github.io/precache-manifest.da6861f63435ebd5259e8d2d7ad2fef3.js",
+    "service-worker.js": "/subash-poudel.github.io/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/subash-poudel.github.io/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/subash-poudel.github.io/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31aca757.js",
+    "static/js/2.2bceaec4.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.405da237.chunk.js"
+  ]
+}
